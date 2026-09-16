@@ -62,7 +62,7 @@ proje/
 └── quick-sort.md
 \`\`\`
 
-> # 💡 Her algoritma dosyası: **açıklama → pseudocode → JavaScript kodu → karmaşıklık analizi** formatında olmalı.
+> # 💡 Her algoritma dosyası: **açıklama → pseudocode → JavaScript kodu → karmaşıklık analizi** formatında. (Devam ediyor...)
 
 # 📚 Algoritmalar Çalışma Planı
 
@@ -128,4 +128,4 @@ proje/
 └── quick-sort.md
 \`\`\`
 
-> 💡 Her algoritma dosyası: **açıklama → pseudocode → JavaScript kodu → karmaşıklık analizi** formatında olmalı.
+> 💡 Her algoritma dosyası: **açıklama → pseudocode → JavaScript kodu → karmaşıklık analizi** formatında. (Devam ediyor...)
