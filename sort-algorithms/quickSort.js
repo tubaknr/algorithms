@@ -1,6 +1,8 @@
 /*
 Nasıl Çalışır?
-Bir pivot belirlenir. Pivottan küçükler pivotun solunda, büyükler sağında kümelenirler.
+Bir pivot belirlenir. 
+Pivottan küçükler pivotun solunda, 
+büyükler sağında kümelenirler.
 
 */
 

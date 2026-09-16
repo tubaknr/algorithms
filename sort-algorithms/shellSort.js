@@ -1,8 +1,10 @@
 /*
 Nasıl Çalışır?
-Bir gap belirlenir. Döngü boyunca bu gap gitgide düşürülür.
-Array parçalanır, her parçadaki elemanlar diğer parçadakilerle karşılaştırılır,
-parçalar birleştirilir, sıralı array elde edilir. 
+alg başlangıçta bir gap değeri belirlenir. 
+birbirinden gep kadar uzakta olan elemanlar kendi aralarında sıralanır.
+giderek gap değeri küçültülür. 
+bu işlem tekraralnır. 
+gap 1 olana kadar devam eder. 
 */
 
 function shellSort(array) {
