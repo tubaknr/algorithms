@@ -1,3 +1,10 @@
+/*
+Nasıl Çalışır?
+Bir gap belirlenir. Döngü boyunca bu gap gitgide düşürülür.
+Array parçalanır, her parçadaki elemanlar diğer parçadakilerle karşılaştırılır,
+parçalar birleştirilir, sıralı array elde edilir. 
+*/
+
 function shellSort(array) {
   let size = array.length;
 

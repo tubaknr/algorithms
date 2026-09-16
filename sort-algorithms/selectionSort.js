@@ -1,3 +1,10 @@
+/*
+en baştaki eleman en küçük eleman olarak seçilir. tüm dizi üzerinde dönülür,
+en küçük seçilen elemandan daha küçüğü varsa, yeni en küçük o elemanın indisi olur.
+eski en küçük ile yeni en üçük yer değiştirirler.
+bu şekilde dizi sıralanır.
+*/
+
 function selectionSort(array) {
   for (let i = 0; i < array.length; i++) {
     let minIndex = i;

@@ -1,4 +1,10 @@
-
+/*
+Nasıl Çalışır?
+Dizideki tüm sayılar ikili ikili karşılaştırılırlar.
+Sağdaki eleman soldakinden küçükse yer değişirler, böylelikle
+Büyük olanlar sağda kümelenir, küçük olanlar solda.
+Bu şekilde tüm dizi boyunca bu döngü terkar eder.
+*/
 
 function bubbleSort(array) {
   for (let i = 0; i < array.length - 1; i++) {

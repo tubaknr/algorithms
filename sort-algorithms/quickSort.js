@@ -1,3 +1,9 @@
+/*
+Nasıl Çalışır?
+Bir pivot belirlenir. Pivottan küçükler pivotun solunda, büyükler sağında kümelenirler.
+
+*/
+
 function quickSort(arr, low = 0, high = arr.length - 1) {
   if (low < high) {
     const pivotIndex = partition(arr, low, high); // pivot index
